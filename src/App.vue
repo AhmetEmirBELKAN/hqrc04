@@ -192,7 +192,7 @@
 
 <script>
 
-import arayuzAssetVerileri from '@/assets/arayuz_assetleri.json'
+
 import Slider from 'primevue/slider';
 import DataTable from 'primevue/datatable';
 import Column from 'primevue/column';
